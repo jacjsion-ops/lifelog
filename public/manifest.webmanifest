@@ -1,0 +1,19 @@
+{
+  "name": "LifeLog 每日生活记录",
+  "short_name": "LifeLog",
+  "description": "记录日程、清单、记账、日记和历史的每日生活 App。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbfcf8",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
